@@ -12,7 +12,6 @@ You can play immediately with the Minimax engine, or train a neural net to guide
 ---
 
 ## Installation
-It’s best to use a virtual environment:
 ```bash
 python -m venv .venv && source .venv/bin/activate
 pip install --upgrade pip
